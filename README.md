@@ -1,5 +1,7 @@
 ## About Code Cured
 
+![code cured the cat logo in banner format](/branding/logo/logo_banner.png)
+
 ### What is Code Cured?
 
 Code Cured The Cat ([codecured.org](https://codecured.org)) is a project to create a new kind of charity: one that is digital-first.
