@@ -4,7 +4,7 @@
 
 Code Cured The Cat ([codecured.org](https://codecured.org)) is a project to create a new kind of charity: one that is digital-first.
 
-Whilst most charities want your *time* or your *money*, Code Cured wants your *expertise*. Collaboratively create software (or ideas) that raise money to improve cat's lives, no matter where you are or what you do for a living.
+Whilst most charities want your *time* or your *money*, Code Cured wants your *expertise*. Collaboratively create software (or ideas) to raise money to improve cat's lives, no matter where you are or what you do for a living.
 
 ### What are the guiding principles?
 
