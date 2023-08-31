@@ -1,6 +1,8 @@
-## About Code Cured
+<div align="center">
+  <img src="https://codecured.org/branding/logo/logo_transparent.png" width="300px">
+</div>
 
-![code cured the cat logo in banner format](/branding/logo/logo_banner.png)
+## About Code Cured
 
 ### What is Code Cured?
 
