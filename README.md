@@ -4,7 +4,7 @@
 
 Code Cured The Cat ([codecured.org](https://codecured.org)) is a project to create a new kind of charity: one that is digital-first.
 
-Whilst most charities want your *time* or your *money*, Code Cured wants your *expertise*. Collaboratively create software (or ideas) to raise money to improve cat's lives, no matter where you are or what you do for a living.
+Whilst most charities want your *time* or your *money*, Code Cured wants your *expertise* and *creativity*. Collaboratively create software (or ideas) to raise money to improve cat's lives, no matter where you are or what you do for a living.
 
 ### What are the guiding principles?
 
@@ -14,16 +14,8 @@ Whilst most charities want your *time* or your *money*, Code Cured wants your *e
 
 ### Where can I find out more?
 
-The easiest way is to take a look at the [`docs`](https://github.com/CodeCured/docs) repository. All current projects will be listed there, along with ways to help out.
+The easiest way is to take a look at the more detailed documents below. All current projects will be listed there, along with ways to help out.
 
-## Finances 
-
-### How is money raised?
-
-By creating software!
-
-For example, an easy way to fundraise via Twitch, donation-funded open source utilities, affiliate links, etc.
-
-### How is money spent?
-
-Every penny is directly spent improving the lives of cats. Initially the most direct way will be purchasing items for specific cat rescue centres, but this might not be scalable! 
+* **[Accreditation](/docs/Accreditation)**: Overview of current progress towards legal charity registration in the UK.
+* **[Finances](/docs/Finances)**: Overview of how money is raised & spent.
+* **[Projects](/docs/Projects)**: Overview of current and upcoming projects.
