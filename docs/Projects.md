@@ -1,6 +1,6 @@
 ## Current
 
-Realistically, the main current project is [Accreditation](/docs/Accreditation.md), and all the general work required to bootstrap Code Cured itself!
+Realistically, the main current project is [Accreditation](/docs/Accreditation), and all the general work required to bootstrap Code Cured itself!
 
 ## Upcoming
 
