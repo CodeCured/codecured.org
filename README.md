@@ -23,3 +23,7 @@ The easiest way is to take a look at the more detailed documents below. All curr
 * **[Accreditation](/docs/Accreditation)**: Overview of current progress towards legal charity registration in the UK.
 * **[Finances](/docs/Finances)**: Overview of how money is raised & spent.
 * **[Projects](/docs/Projects)**: Overview of current and upcoming projects.
+
+### How can I get in touch?
+
+Either [email hello@codecured.org](mailto:hello@codecured.org), or start [a GitHub discussion](https://github.com/codecured).
