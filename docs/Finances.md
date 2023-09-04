@@ -1,4 +1,4 @@
-## Overview
+## Finances
 
 ### How is money raised?
 
