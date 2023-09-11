@@ -4,8 +4,28 @@
 
 ### Summary
 
-1. Fill in the ["*Model constitution for a small charity*"](https://www.gov.uk/government/publications/setting-up-a-charity-model-governing-documents) template, store on Google Docs / GitHub.
-2. Start doing charitable work! This will make filling in the CIO application easier.
+[Here's the main guide](https://www.gov.uk/set-up-a-charity), essentially: 
+
+1. [Read the full guidance](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/557944/Apply_to_register_a_charity_questions.pdf) and prepare answers:
+    1. Organisation's details
+        1. Name: Code Cured The Cat
+        2. Contact details: Use mine (use corporate postal address)
+        3. Trustees: Name / address / DOB / email, and [complete the trustee doc](https://www.gov.uk/government/publications/confirmation-of-charity-trustee-eligibility)
+    2. Organisation's structure and purpose
+        1. Fill in the "Governing Document" using foundation CIO commission doc (as a Google Doc).
+        2. Fill in purposes of the charity (cat welfare).
+        3. Who the organisation helps (cats, obviously).
+        4. Where the organisation operates (primarily UK for now).
+    3. Organisation's benefits
+        1. Purpose (must match governing document).
+        2. Who can benefit: N/A?
+        3. Benefits of those involved: No services / facilities / benefits to anyone involved.
+        4. Overseas aid: For now, significantly easier to restrict to UK-only.
+    4. Organisation's money
+        1. Income: For a CIO no bank account is needed, so can skip.
+        2. Property: N/A.
+        3. Tax relief: Gift aid, but can wait until after.
+        4. Funding: Public donations only.
 
 ### What type of charity?
 
