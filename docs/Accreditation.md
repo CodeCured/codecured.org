@@ -8,17 +8,9 @@
 
 Left to do:
 
-- Upload governing document
-- Classification -> Public Benefit:
-    - Purpose: "Explain how the organisation carries out its purposes:"
-    - Benefits: "What are the benefits of the organisation's purposes?"
-    - Selection: "What criteria do the trustees use to decide who the organisation benefits or what work it does or supports?"
-    - Animal Welfare:
-        - "Tell us about the services the organisation provides and how you identify animals who need the assistance or services of your organisation."
-        - "Tell us what qualifications and experience those involved in providing assistance to animals or the services of the organisation must have."
-        - "Where relevant, please tell us the basis on which an animal is released into the wild, re-homed or returned to its owner. (please indicate if this is not applicable)"
-- Contact info -> Public address
-- Trustee details -> Add additional trustees
+1. Upload governing document (once trustee information filled)
+2. Add additional trustee details.
+3. Sign & upload trustee declaration.
 
 ## Post-accreditation
 
