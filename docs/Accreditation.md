@@ -8,9 +8,10 @@
 
 Left to do:
 
-1. Upload governing document (once trustee information filled)
+1. Sign & upload trustee declaration.
 2. Add additional trustee details.
-3. Sign & upload trustee declaration.
+3. Upload [constitution](/docs/reference/CodeCuredConstitution-draft.pdf) to Charity Commission.
+4. Submit application.
 
 ## Post-accreditation
 
