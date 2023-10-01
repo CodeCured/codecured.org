@@ -20,7 +20,7 @@ Realistically, the main current project is [Accreditation](/docs/Accreditation),
 
 ## Upcoming
 
-### Functionality
+### Functionality-based projects
 * Cat name analyser `nameanalyser.codecured.org`
     * Primarily based on syllables, e.g. 2 is ideal.
     * Also checks letters used, since ending in uppercase is thought to be better.
@@ -30,12 +30,12 @@ Realistically, the main current project is [Accreditation](/docs/Accreditation),
 * Using AI / computer vision to look at a cat video and try to determine mood based on body position, tail movements, etc. 
 * Connect producers of unsold cat products (manufacturers, supermarkets, even individuals)
 
-### Resource listing
+### Resource listing projects
 * Free resources to help tenants convince landlords to allow them to keep cats.
 * List (similar to YouTube Is For Cats) of public streams of cats.
 * Comprehensive list of where to submit missing cat information in various locales. For example, in the UK Facebook is often used, but Nextdoor is a crucial place too. This could also include groups on these platforms, but that would of course be higher maintenance.
 
-### Meta
+### Meta projects
 * Open up a bank account to pay bills from.
 * Register for gift aid relief.
 * Ability for individuals to donate for a specific benefit. Will of course need to consider KYC etc.
