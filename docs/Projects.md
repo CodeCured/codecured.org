@@ -28,7 +28,7 @@ Realistically, the main current project is [Accreditation](/docs/Accreditation),
     * Can share results via URL params, e.g. `/?name=Garfield`.
     * Lots of "easter egg" names that give a great score and display a photo of the specific cat, e.g. Cassie, Garfield, Felix.
 * Using AI / computer vision to look at a cat video and try to determine mood based on body position, tail movements, etc. 
-* Connect producers of unsold cat products (manufacturers, supermarkets, even individuals)
+* Connect producers of unsold cat products (e.g. manufacturers, supermarkets) with those that can utilise large quantities at short notice (e.g. shelters).
 
 ### Resource listing projects
 * Free resources to help tenants convince landlords to allow them to keep cats.
